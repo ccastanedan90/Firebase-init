@@ -1,5 +1,8 @@
+// Import Modules
 import React from 'react';
-import logo from './logo.svg';
+
+// Import Styles
+import logo from '../../assets/images/logo.svg';
 import './App.css';
 
 function App() {
