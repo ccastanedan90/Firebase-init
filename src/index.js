@@ -10,7 +10,7 @@ import App from './components/App/App';
 import './styles/index.css';
 
 // Import Utils
-import firebaseConfig from './firebase'
+import { firebaseConfig } from './firebase'
 import * as serviceWorker from './serviceWorker';
 
 firebase.initializeApp(firebaseConfig)
